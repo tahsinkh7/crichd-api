@@ -26,7 +26,7 @@ def get_base_url(url):
 
 def credit():
 
-    return "(CricHD-API) Made With ðŸ’— By Sabbir<br>Visit (https://www.github.com/sabbiriptv) For More!"
+    return "(CricHD-API) Made With ❤️ — By Proximity BD"
 
 @app.route("/api")
 
